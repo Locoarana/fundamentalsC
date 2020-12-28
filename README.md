@@ -1,2 +1,0 @@
-# fundamentalsC
-Progra1
